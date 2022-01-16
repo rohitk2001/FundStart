@@ -10,13 +10,13 @@ We built it with cutting edge technology that allows a fast paced development su
 
 # How to use
 
-Step1) Download the zip file.
-Step2) Extract the zip file.
-Step3) Using the VS Code terminal, change directory to zip folder.
-Step4) Execute command: 
-        npm i
-        npm i recharts
-Step5) Execute command:
-        npm start
+Step1) Download the zip file.<br/>
+Step2) Extract the zip file. <br/>
+Step3) Using the VS Code terminal, change directory to zip folder. <br/>
+Step4) Execute command: <br/>
+        npm i <br/>
+        npm i recharts <br/>
+Step5) Execute command: <br/>
+        npm start <br/>
  
     
